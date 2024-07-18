@@ -9,11 +9,7 @@ buttonText: git 테스트
 
 .ttt {border:2px solid red}
 
-.test {
-
-color:red
-
-}
+.test {color:red}
 
 </style>
 
