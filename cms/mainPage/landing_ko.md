@@ -3,13 +3,13 @@ contents: >-
   <style>
 
 
-  .mainCustom {border:2px solid red;}
+  .mainCustom {border:1px dotted #ddd;}
 
 
   .mainCustom h3 {font-style:italic;}
 
 
-  .mainCustom .images {width:200px !important;}
+  .mainCustom .images {width:100% !important; positon:relative !important;}
 
 
   </style>
