@@ -27,4 +27,8 @@ buttonText: git 테스트
 
 <img src="public/assets/images/vincent-van-gogh-starry-night_1920x1080.jpg" class="image_1" />
 
+<br/>
+
+<img src="https://www.dcove.co.kr/web/product/extra/small/202407/771c8703948115f0169da5fa6bd2743b.jpg" class="image_1">
+
 </div>
