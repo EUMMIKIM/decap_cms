@@ -19,7 +19,7 @@ buttonText: git 테스트
 
 <div class="test">test</div>
 
-<img src="https://github.com/EUMMIKIM/decap_test/blob/main/public/assets/images/wallpaperflare.com_wallpaper-2-.jpg" />
+<img src="public/assets/images/wallpaperflare.com_wallpaper-2-.jpg" />
 
 </div>
 
