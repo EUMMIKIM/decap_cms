@@ -7,7 +7,11 @@ buttonText: git 테스트
 ---
 <style>
 
-.test {color:'red'}
+.test {
+
+color:red
+
+}
 
 </style>
 
