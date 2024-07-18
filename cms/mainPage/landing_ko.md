@@ -9,7 +9,7 @@ contents: >-
   .mainCustom h3 {font-style:italic;}
 
 
-  .mainCustom .images {width:200px;}
+  .mainCustom .images {width:200px !important;}
 
 
   </style>
