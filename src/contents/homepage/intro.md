@@ -21,7 +21,7 @@ buttonText: git 테스트
 
 <div class="test">test</div>
 
-<img src="public/assets/images/wallpaperflare.com_wallpaper-2-.jpg" class="image_1" />
+<img src="public/assets/images/wallpaperflare.com_wallpaper-2-.jpg" className="image_1" />
 
 <br/>
 
