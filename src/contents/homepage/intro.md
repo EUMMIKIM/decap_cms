@@ -23,6 +23,8 @@ buttonText: git 테스트
 
 <img src="public/assets/images/wallpaperflare.com_wallpaper-2-.jpg" class="image_1" />
 
+<br/>
+
 <img src="public/assets/images/vincent-van-gogh-starry-night_1920x1080.jpg" class="image_1" />
 
 </div>
