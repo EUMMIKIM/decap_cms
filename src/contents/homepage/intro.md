@@ -7,9 +7,9 @@ buttonText: git 테스트
 ---
 <style>
 
-\#ttt {border:2px solid red}
+.ttt {border:2px solid red}
 
-\#ttt .test {
+.test {
 
 color:red
 
