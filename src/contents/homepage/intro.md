@@ -7,9 +7,11 @@ buttonText: git 테스트
 ---
 <style>
 
-.ttt {border:2px solid red}
+.ttt {border:2px solid red;}
 
-.test {color:red}
+.ttt .test {color:red;}
+
+.ttt .image_1 { width:300px;}
 
 </style>
 
@@ -19,7 +21,7 @@ buttonText: git 테스트
 
 <div class="test">test</div>
 
-<img src="public/assets/images/wallpaperflare.com_wallpaper-2-.jpg" />
+<img src="public/assets/images/wallpaperflare.com_wallpaper-2-.jpg" class="image_1" />
 
 </div>
 
