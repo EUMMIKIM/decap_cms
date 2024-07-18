@@ -23,6 +23,6 @@ buttonText: git 테스트
 
 <img src="public/assets/images/wallpaperflare.com_wallpaper-2-.jpg" class="image_1" />
 
-</div>
+<img src="public/assets/images/wallpaperflare.com_wallpaper-2-.jpg" class="image_1" />
 
-![]()
+</div>
