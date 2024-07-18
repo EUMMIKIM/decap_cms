@@ -7,7 +7,9 @@ buttonText: git 테스트
 ---
 <style>
 
-.test {
+\#ttt {border:2px solid red}
+
+\#ttt .test {
 
 color:red
 
@@ -15,7 +17,7 @@ color:red
 
 </style>
 
-<div style="border:1px solid red;">
+<div  id="ttt">
 
 <h1>asdffasdfas</h2>
 
