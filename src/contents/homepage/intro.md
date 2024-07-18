@@ -15,7 +15,7 @@ buttonText: git 테스트
 
 <h1>asdffasdfas</h2>
 
-<div class="test"></div>
+<div class="test">test</div>
 
 </div>
 
