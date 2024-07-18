@@ -17,7 +17,7 @@ color:red
 
 </style>
 
-<div  id="ttt">
+<div  class="ttt">
 
 <h1>asdffasdfas</h2>
 
