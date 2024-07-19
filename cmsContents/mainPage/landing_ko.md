@@ -1,8 +1,8 @@
 ---
 contents: |-
-  \    <div className="mypage-header">
+  <div className="mypage-header">
 
-  \    {/* 회원등급 
+  {/* 회원등급 
 
   \- 일반 'thumb'
 
@@ -10,101 +10,101 @@ contents: |-
 
   \*/}
 
-  \    <div className="thumb partner">
+  <div className="thumb partner">
 
-  \    <span className="name">파트너</span>
+  <span className="name">파트너</span>
 
-  \    </div>
-
-
-
-  \    <div className="myinfo">
-
-  \    <h2 className="myinfo__tit">
-
-  \    <Link href="" className="link-arr" title="개인 정보 관리 화면으로 이동">
-
-  \    <span className="nickname">닉네임</span>님, <br /> 오늘도 좋은 하루 되세요.
-
-  \    </Link>
-
-  \    </h2>
-
-  \    <div className="myinfo__id">jaemin.ahn@lgepartners.com</div>
-
-  \    </div>
-
-  \    </div>
+  </div>
 
 
 
-  \    <div className="box box--r-1.25">
+  <div className="myinfo">
 
-  \    <section className="seciton">
+  <h2 className="myinfo__tit">
 
-  \    <div className="mypage-cont">
+  <Link href="" className="link-arr" title="개인 정보 관리 화면으로 이동">
 
-  \    <h3 className="mypage-cont__tit">함께할 파트너가 되어주세요.</h3>
+  <span className="nickname">닉네임</span>님, <br /> 오늘도 좋은 하루 되세요.
 
-  \    <p className="mypage-cont__txt">
+  </Link>
 
-  \    LG는 파트너와 함께 성장합니다. <br />
+  </h2>
 
-  \    자사 서비스에 대해 알아보고 더 나은 서비스를 제공할 수 있도록 여러분을 만나고 싶습니다.
+  <div className="myinfo__id">jaemin.ahn@lgepartners.com</div>
 
-  \    </p>
+  </div>
 
-
-
-  \    <dl className="mypage-cont__dl">
-
-  \    <div>
-
-  \    <dt>파트너십 요청</dt>
-
-  \    <dd>LG Open API Developer Portal 파트너십 신청서를 작성합니다.</dd>
-
-  \    </div>
-
-  \    <div>
-
-  \    <dt>신청서 검토/승인</dt>
-
-  \    <dd>귀하의 신청서를 검토 후, 승인이 완료되면 승인완료 메일을 받게 됩니다..</dd>
-
-  \    </div>
-
-  \    <div>
-
-  \    <dt>자사 서비스 개발/상용화</dt>
-
-  \    <dd>
-
-  \    승인이 완료되면 필요한 만큼 사용자 스스로 API Key를 생성할 수 있습니다. 성공적으로 자사 서비스를
-
-  \    개발, 서비스 해보세요.
-
-  \    </dd>
-
-  \    </div>
-
-  \    </dl>
+  </div>
 
 
 
-  \    <div className="btn-group">
+  <div className="box box--r-1.25">
 
-  \    <div className="al-center">
+  <section className="seciton">
 
-  \    <CoButton className="btn-round-primary btn-l">파트너십 요청</CoButton>
+  <div className="mypage-cont">
 
-  \    </div>
+  <h3 className="mypage-cont__tit">함께할 파트너가 되어주세요.</h3>
 
-  \    </div>
+  <p className="mypage-cont__txt">
 
-  \    </div>
+  LG는 파트너와 함께 성장합니다. <br />
 
-  \    </section>
+  자사 서비스에 대해 알아보고 더 나은 서비스를 제공할 수 있도록 여러분을 만나고 싶습니다.
 
-  \    </div>
+  </p>
+
+
+
+  <dl className="mypage-cont__dl">
+
+  <div>
+
+  <dt>파트너십 요청</dt>
+
+  <dd>LG Open API Developer Portal 파트너십 신청서를 작성합니다.</dd>
+
+  </div>
+
+  <div>
+
+  <dt>신청서 검토/승인</dt>
+
+  <dd>귀하의 신청서를 검토 후, 승인이 완료되면 승인완료 메일을 받게 됩니다..</dd>
+
+  </div>
+
+  <div>
+
+  <dt>자사 서비스 개발/상용화</dt>
+
+  <dd>
+
+  승인이 완료되면 필요한 만큼 사용자 스스로 API Key를 생성할 수 있습니다. 성공적으로 자사 서비스를
+
+  개발, 서비스 해보세요.
+
+  </dd>
+
+  </div>
+
+  </dl>
+
+
+
+  <div className="btn-group">
+
+  <div className="al-center">
+
+  <CoButton className="btn-round-primary btn-l">파트너십 요청</CoButton>
+
+  </div>
+
+  </div>
+
+  </div>
+
+  </section>
+
+  </div>
 ---
