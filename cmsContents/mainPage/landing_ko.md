@@ -2,14 +2,6 @@
 contents: |-
   <div className="mypage-header">
 
-  {/* 회원등급 
-
-  \- 일반 'thumb'
-
-  \- 파트너 'thumb partner' 
-
-  \*/}
-
   <div className="thumb partner">
 
   <span className="name">파트너</span>
