@@ -42,7 +42,7 @@ contents: >-
   <div>
 
 
-  <img src="public/assets/images/wallpaperflare.com_wallpaper-2-.jpg" class="images" />
+  <img src="cmsPublic/assets/images/wallpaperflare.com_wallpaper-2-.jpg" class="images" />
 
 
   </div>
