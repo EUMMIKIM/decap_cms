@@ -42,7 +42,7 @@ contents: >-
   <div>
 
 
-  <img src="cmsPublic/assets/images/wallpaperflare.com_wallpaper-2-.jpg" class="images" />
+  \    <img src="/assets/images/lg_logo.svg" class="images" />
 
 
   </div>
@@ -51,7 +51,16 @@ contents: >-
   <div>
 
 
-  <img src="https://www.dcove.co.kr/web/product/big/202407/aa1689dbb8661b22ac77bb23ee5e4747.jpg" class="images" />
+  \    <img src="cmsPublic/assets/images/wallpaperflare.com_wallpaper-2-.jpg" class="images" />
+
+
+  </div>
+
+
+  <div>
+
+
+  \    <img src="https://www.dcove.co.kr/web/product/big/202407/aa1689dbb8661b22ac77bb23ee5e4747.jpg" class="images" />
 
 
   </div>
