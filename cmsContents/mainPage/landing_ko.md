@@ -2,15 +2,11 @@
 contents: |-
   <div className="mypage-header">
 
-
-
   \    <div className="thumb partner">
 
   \    <span className="name">파트너</span>
 
   \    </div>
-
-
 
   \    <div className="myinfo">
 
@@ -30,8 +26,6 @@ contents: |-
 
   \    </div>
 
-
-
   \    <div className="box box--r-1.25">
 
   \    <section className="seciton">
@@ -47,8 +41,6 @@ contents: |-
   \    자사 서비스에 대해 알아보고 더 나은 서비스를 제공할 수 있도록 여러분을 만나고 싶습니다.
 
   \    </p>
-
-
 
   \    <dl className="mypage-cont__dl">
 
@@ -84,13 +76,11 @@ contents: |-
 
   \    </dl>
 
-
-
   \    <div className="btn-group">
 
   \    <div className="al-center">
 
-  \    <CoButton className="btn-round-primary btn-l">파트너십 요청</CoButton>
+  \    <button className="btn-round-primary btn-l">파트너십 요청</button>
 
   \    </div>
 
