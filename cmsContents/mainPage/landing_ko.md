@@ -80,7 +80,7 @@ contents: |-
 
   \    <div className="al-center">
 
-  \    <button className="btn-round-primary btn-l">파트너십 요청</button>
+  \    <CoButton className="btn-round-primary btn-l">파트너십 요청</CoButton>
 
   \    </div>
 
