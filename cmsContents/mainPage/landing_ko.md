@@ -268,7 +268,7 @@ contents: |-
 
   <div className="main-bg">
 
-  \    <section className="main-section main-type-1">
+  \    <section class="main-section main-type-1">
 
   \    <div className="container">
 
@@ -314,8 +314,6 @@ contents: |-
 
   \    </section>
 
-
-
   \    <section className="main-section main-type-2">
 
   \    <div className="container">
@@ -329,8 +327,6 @@ contents: |-
   \    </div>
 
   \    </section>
-
-
 
   \    <section className="main-section main-type-3">
 
