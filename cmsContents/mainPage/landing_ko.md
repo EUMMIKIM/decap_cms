@@ -1,348 +1,517 @@
 ---
-contents: |-
-  <style>
+contents: "<style>
 
-  \    .main-bg {
 
-  \    background-repeat: no-repeat;
+  \\    .main-bg {
 
-  \    background-position: 50% 50%;
 
-  \    background-size: contain;
+  \\    background-repeat: no-repeat;
 
-  \    background-image: url(/assets/images/main_dot_bg.svg);
 
-  \    }
+  \\    background-position: 50% 50%;
 
 
+  \\    background-size: contain;
 
-  \    .main-section.main-type-1 {
 
-  \    padding-top: 9rem;
+  \\    background-image: url(/assets/images/main_dot_bg.svg);
 
-  \    }
 
-  \    .main-section.main-type-1 .title {
+  \\    }
 
-  \    color: black;
 
-  \    font-size: 5rem;
 
-  \    font-weight: 700;
 
-  \    font-family: 'LGEIHeadline';
+  \\    .main-section.main-type-1 {
 
-  \    line-height: 1.1;
 
-  \    }
+  \\    padding-top: 9rem;
 
-  \    .main-section.main-type-1 .text {
 
-  \    margin-top: 2rem;
+  \\    }
 
-  \    font-size: 2rem;
 
-  \    color: #949496;
+  \\    .main-section.main-type-1 .title {
 
-  \    font-family: 'LGEIHeadline';
 
-  \    line-height: 1.2;
+  \\    color: black;
 
-  \    }
 
-  \    .main-section.main-type-1 .main-img-box {
+  \\    font-size: 5rem;
 
-  \    margin-top: 4rem;
 
-  \    display: flex;
+  \\    font-weight: 700;
 
-  \    gap: 0 2.5rem;
 
-  \    }
+  \\    font-family: 'LGEIHeadline';
 
-  \    .main-section.main-type-1 .main-img-box div {
 
-  \    position: relative;
+  \\    line-height: 1.1;
 
-  \    flex: 1;
 
-  \    width: calc(100% / 3);
+  \\    }
 
-  \    height: auto;
 
-  \    }
+  \\    .main-section.main-type-1 .text {
 
-  \    .main-section.main-type-1 .main-img-box div img {
 
-  \    height: auto !important;
+  \\    margin-top: 2rem;
 
-  \    position: relative !important;
 
-  \    display: block;
+  \\    font-size: 2rem;
 
-  \    }
 
+  \\    color: #949496;
 
 
-  \    .main-section.main-type-2 .round-box {
+  \\    font-family: 'LGEIHeadline';
 
-  \    margin: 5rem 0;
 
-  \    padding: 2.5rem;
+  \\    line-height: 1.2;
 
-  \    border-radius: 2.5rem;
 
-  \    background-color: white;
+  \\    }
 
-  \    box-shadow: 0px 0.938rem 1.25rem 0px rgba(0, 0, 0, 0.1);
 
-  \    box-shadow: 0px 1.875rem 2.5rem 0px rgba(0, 0, 0, 0.02);
+  \\    .main-section.main-type-1 .main-img-box {
 
-  \    box-shadow: 0px 2.5rem 3.75rem 0px rgba(0, 0, 0, 0.05);
 
-  \    }
+  \\    margin-top: 4rem;
 
-  \    .main-section.main-type-3 {
 
-  \    background-color: #f6f6f6;
+  \\    display: flex;
 
-  \    padding: 6rem 0;
 
-  \    }
+  \\    gap: 0 2.5rem;
 
-  \    .main-section.main-type-3 .title {
 
-  \    font-size: 4rem;
+  \\    }
 
-  \    font-weight: 700;
 
-  \    color: #c00a3e;
+  \\    .main-section.main-type-1 .main-img-box div {
 
-  \    letter-spacing: -2px;
 
-  \    }
+  \\    position: relative;
 
-  \    .main-section.main-type-3 .text {
 
-  \    margin-top: 1rem;
+  \\    flex: 1;
 
-  \    font-size: 2rem;
 
-  \    font-weight: 400;
+  \\    width: calc(100% / 3);
 
-  \    letter-spacing: -2px;
 
-  \    color: black;
+  \\    height: auto;
 
-  \    }
 
-  \    @media screen and (max-width: 1440px) {
+  \\    }
 
-  \    .main-section.main-type-1 {
 
-  \    padding-top: 7rem;
+  \\    .main-section.main-type-1 .main-img-box div img {
 
-  \    }
 
-  \    .main-section.main-type-1 .title {
+  \\    height: auto !important;
 
-  \    font-size: 5.5vw;
 
-  \    letter-spacing: -1px;
+  \\    position: relative !important;
 
-  \    }
 
-  \    .main-section.main-type-1 .text {
+  \\    display: block;
 
-  \    margin-top: 5%;
 
-  \    font-size: 2.2vw;
+  \\    }
 
-  \    letter-spacing: -1px;
 
-  \    }
 
-  \    .main-section.main-type-1 .main-img-box {
 
-  \    gap: 0 1.5rem;
+  \\    .main-section.main-type-2 .round-box {
 
-  \    }
 
-  \    .main-section.main-type-3 {
+  \\    margin: 5rem 0;
 
-  \    padding: 4rem 0;
 
-  \    }
+  \\    padding: 2.5rem;
 
-  \    .main-section.main-type-3 .title {
 
-  \    font-size: 5vw;
+  \\    border-radius: 2.5rem;
 
-  \    letter-spacing: -1px;
 
-  \    }
+  \\    background-color: white;
 
-  \    .main-section.main-type-3 .text {
 
-  \    margin-top: 1%;
+  \\    box-shadow: 0px 0.938rem 1.25rem 0px rgba(0, 0, 0, 0.1);
 
-  \    font-size: 2vw;
 
-  \    letter-spacing: -1px;
+  \\    box-shadow: 0px 1.875rem 2.5rem 0px rgba(0, 0, 0, 0.02);
 
-  \    }
 
-  \    }
+  \\    box-shadow: 0px 2.5rem 3.75rem 0px rgba(0, 0, 0, 0.05);
 
-  \    @media screen and (max-width: 640px) {
 
-  \    .main-section.main-type-1 {
+  \\    }
 
-  \    padding-top: 3rem;
 
-  \    }
+  \\    .main-section.main-type-3 {
 
-  \    .main-section.main-type-1 .title {
 
-  \    font-size: 1.5rem;
+  \\    background-color: #f6f6f6;
 
-  \    letter-spacing: -1px;
 
-  \    }
+  \\    padding: 6rem 0;
 
-  \    .main-section.main-type-1 .text {
 
-  \    margin-top: 5%;
+  \\    }
 
-  \    font-size: 0.875rem;
 
-  \    letter-spacing: -1px;
+  \\    .main-section.main-type-3 .title {
 
-  \    }
 
-  \    .main-section.main-type-1 .main-img-box {
+  \\    font-size: 4rem;
 
-  \    margin-top: 2rem;
 
-  \    gap: 1rem;
+  \\    font-weight: 700;
 
-  \    }
 
+  \\    color: #c00a3e;
 
 
-  \    .main-section.main-type-2 .round-box {
+  \\    letter-spacing: -2px;
 
-  \    margin: 2rem 0;
 
-  \    padding: 1.5rem;
+  \\    }
 
-  \    }
 
-  \    .main-section.main-type-3 {
+  \\    .main-section.main-type-3 .text {
 
-  \    padding: 3rem 0;
 
-  \    }
+  \\    margin-top: 1rem;
 
-  \    .main-section.main-type-3 .title {
 
-  \    font-size: 1.25rem;
+  \\    font-size: 2rem;
 
-  \    letter-spacing: -1px;
 
-  \    }
+  \\    font-weight: 400;
 
-  \    .main-section.main-type-3 .text {
 
-  \    margin-top: 0.5rem;
+  \\    letter-spacing: -2px;
 
-  \    font-size: 0.875rem;
 
-  \    letter-spacing: -1px;
+  \\    color: black;
 
-  \    }
 
-  \    }
+  \\    }
 
-  \    </style> 
 
-  <div className="main-bg">
+  \\    @media screen and (max-width: 1440px) {
 
-  \    <section class="main-section main-type-1">
 
-  \    <div className="container">
+  \\    .main-section.main-type-1 {
 
-  \    <p className="title">
 
-  \    Why build with <br />
+  \\    padding-top: 7rem;
 
-  \    LG Open API Developers?
 
-  \    </p>
+  \\    }
 
-  \    <p className="text">
 
-  \    Become a lifestyle innovator by connection your service to <br />
+  \\    .main-section.main-type-1 .title {
 
-  \    LG smart appliances with out Cloud-to-Cloud platform.
 
-  \    </p>
+  \\    font-size: 5.5vw;
 
-  \    <div className="main-img-box" aria-hidden="true">
 
-  \    <div>
+  \\    letter-spacing: -1px;
 
-  \    <CoImage src="/assets/images/main_img_1.png" isFullSize alt="LG전자" />
 
-  \    </div>
+  \\    }
 
-  \    <div>
 
-  \    <CoImage src="/assets/images/main_img_2.png" isFullSize alt="LG전자" />
+  \\    .main-section.main-type-1 .text {
 
-  \    </div>
 
-  \    <div>
+  \\    margin-top: 5%;
 
-  \    <CoImage src="/assets/images/main_img_3.png" isFullSize alt="LG전자" />
 
-  \    </div>
+  \\    font-size: 2.2vw;
 
-  \    </div>
 
-  \    </div>
+  \\    letter-spacing: -1px;
 
-  \    </section>
 
-  \    <section className="main-section main-type-2">
+  \\    }
 
-  \    <div className="container">
 
-  \    <div className="round-box">
+  \\    .main-section.main-type-1 .main-img-box {
 
-  \    <h3 className="title">Our API</h3>
 
-  \    </div>
+  \\    gap: 0 1.5rem;
 
-  \    </div>
 
-  \    </section>
+  \\    }
 
-  \    <section className="main-section main-type-3">
 
-  \    <div className="container">
+  \\    .main-section.main-type-3 {
 
-  \    <p className="title">Need more access and features?</p>
 
-  \    <p className="text">
+  \\    padding: 4rem 0;
 
-  \    LG 개발자가 되기 전, <br /> 궁금한 사항에 대해 담당자에게 문의해 보세요.
 
-  \    </p>
+  \\    }
 
-  \    </div>
 
-  \    </section>
+  \\    .main-section.main-type-3 .title {
 
-  \    </div>
+
+  \\    font-size: 5vw;
+
+
+  \\    letter-spacing: -1px;
+
+
+  \\    }
+
+
+  \\    .main-section.main-type-3 .text {
+
+
+  \\    margin-top: 1%;
+
+
+  \\    font-size: 2vw;
+
+
+  \\    letter-spacing: -1px;
+
+
+  \\    }
+
+
+  \\    }
+
+
+  \\    @media screen and (max-width: 640px) {
+
+
+  \\    .main-section.main-type-1 {
+
+
+  \\    padding-top: 3rem;
+
+
+  \\    }
+
+
+  \\    .main-section.main-type-1 .title {
+
+
+  \\    font-size: 1.5rem;
+
+
+  \\    letter-spacing: -1px;
+
+
+  \\    }
+
+
+  \\    .main-section.main-type-1 .text {
+
+
+  \\    margin-top: 5%;
+
+
+  \\    font-size: 0.875rem;
+
+
+  \\    letter-spacing: -1px;
+
+
+  \\    }
+
+
+  \\    .main-section.main-type-1 .main-img-box {
+
+
+  \\    margin-top: 2rem;
+
+
+  \\    gap: 1rem;
+
+
+  \\    }
+
+
+
+
+  \\    .main-section.main-type-2 .round-box {
+
+
+  \\    margin: 2rem 0;
+
+
+  \\    padding: 1.5rem;
+
+
+  \\    }
+
+
+  \\    .main-section.main-type-3 {
+
+
+  \\    padding: 3rem 0;
+
+
+  \\    }
+
+
+  \\    .main-section.main-type-3 .title {
+
+
+  \\    font-size: 1.25rem;
+
+
+  \\    letter-spacing: -1px;
+
+
+  \\    }
+
+
+  \\    .main-section.main-type-3 .text {
+
+
+  \\    margin-top: 0.5rem;
+
+
+  \\    font-size: 0.875rem;
+
+
+  \\    letter-spacing: -1px;
+
+
+  \\    }
+
+
+  \\    }
+
+
+  \\    </style>\ 
+
+
+  <div className=\"main-bg\">
+
+
+  \\    <section class=\"main-section main-type-1\">
+
+
+  \\    <div className=\"container\">
+
+
+  \\    <p className=\"title\">
+
+
+  \\    Why build with <br />
+
+
+  \\    LG Open API Developers?
+
+
+  \\    </p>
+
+
+  \\    <p className=\"text\">
+
+
+  \\    Become a lifestyle innovator by connection your service to <br />
+
+
+  \\    LG smart appliances with out Cloud-to-Cloud platform.
+
+
+  \\    </p>
+
+
+  \\    <div className=\"main-img-box\" aria-hidden=\"true\">
+
+
+  \\    <div>
+
+
+  \\    <\bimg src=\"/assets/images/main_img_1.png\" isFullSize alt=\"LG전자\"
+  />
+
+
+  \\    </div>
+
+
+  \\    <div>
+
+
+  \\    <img src=\"/assets/images/main_img_2.png\" isFullSize alt=\"LG전자\" />
+
+
+  \\    </div>
+
+
+  \\    <div>
+
+
+  \\    <img src=\"/assets/images/main_img_3.png\" isFullSize alt=\"LG전자\" />
+
+
+  \\    </div>
+
+
+  \\    </div>
+
+
+  \\    </div>
+
+
+  \\    </section>
+
+
+  \\    <section className=\"main-section main-type-2\">
+
+
+  \\    <div className=\"container\">
+
+
+  \\    <div className=\"round-box\">
+
+
+  \\    <h3 className=\"title\">Our API</h3>
+
+
+  \\    </div>
+
+
+  \\    </div>
+
+
+  \\    </section>
+
+
+  \\    <section className=\"main-section main-type-3\">
+
+
+  \\    <div className=\"container\">
+
+
+  \\    <p className=\"title\">Need more access and features?</p>
+
+
+  \\    <p className=\"text\">
+
+
+  \\    LG 개발자가 되기 전, <br /> 궁금한 사항에 대해 담당자에게 문의해 보세요.
+
+
+  \\    </p>
+
+
+  \\    </div>
+
+
+  \\    </section>
+
+
+  \\    </div>"
 ---
