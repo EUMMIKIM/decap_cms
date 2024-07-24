@@ -292,19 +292,19 @@ contents: |-
 
   \    <div>
 
-  \    <CoImage src="/assets/images/main_img_1.png" isFullSize alt="LG전자" />
+  \    <img src="/assets/images/main_img_1.png" isFullSize alt="LG전자" />
 
   \    </div>
 
   \    <div>
 
-  \    <CoImage src="/assets/images/main_img_2.png" isFullSize alt="LG전자" />
+  \    <img src="/assets/images/main_img_2.png" isFullSize alt="LG전자" />
 
   \    </div>
 
   \    <div>
 
-  \    <CoImage src="/assets/images/main_img_3.png" isFullSize alt="LG전자" />
+  \    <img src="/assets/images/main_img_3.png" isFullSize alt="LG전자" />
 
   \    </div>
 
