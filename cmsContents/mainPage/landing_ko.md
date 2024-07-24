@@ -274,7 +274,7 @@ contents: |-
 
   \    <p className="title">
 
-  \    **Why build with** <br />
+  \    Why build with <br />
 
   \    LG Open API Developers?
 
