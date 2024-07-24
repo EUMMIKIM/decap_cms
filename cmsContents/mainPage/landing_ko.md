@@ -18,7 +18,7 @@ contents: |-
 
   \    .main-section.main-type-1 {
 
-  \    padding-top: 9rem;
+     padding-top: 9rem;
 
   \    }
 
