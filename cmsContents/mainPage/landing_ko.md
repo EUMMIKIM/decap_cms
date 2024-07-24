@@ -2,7 +2,7 @@
 contents: |-
   <style>
 
-  \    .main-bg {
+     .main-bg {
 
   \    background-repeat: no-repeat;
 
