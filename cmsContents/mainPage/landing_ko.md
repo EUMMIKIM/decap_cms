@@ -10,7 +10,7 @@ contents: |-
 
   \    background-size: contain;
 
-  \    background-image: url(/assets/images/main_dot_bg.svg);
+     background-image: url(/assets/images/main_dot_bg.svg);
 
   \    }
 
