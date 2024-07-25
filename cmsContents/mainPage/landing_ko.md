@@ -429,7 +429,7 @@ contents: >-
   \    <div>
 
 
-  <a href="http://10.157.7.160:8989/ko/api/thinq-connect#tag/Facility/operation/getFacilityCtrlHistoryAircareUsingGET">
+  <a href="/api/thinq-connect#tag/Facility/operation/getFacilityCtrlHistoryAircareUsingGET">
 
 
   \    <img src="/assets/images/main_img_1.png" isFullSize alt="LG전자" />
