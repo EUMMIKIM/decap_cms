@@ -444,7 +444,7 @@ contents: >-
   \    <div>
 
 
-  \    <img src="/assets/images/main_img_2.png" isFullSize alt="LG전자" onclick="alert(1)" />
+  \    <img src="/assets/images/main_img_2.png" isFullSize alt="LG전자1" />
 
 
   \    </div>
