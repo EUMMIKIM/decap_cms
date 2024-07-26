@@ -1,5 +1,0 @@
----
-contents:
-  code: ""
-  lang: yaml
----
