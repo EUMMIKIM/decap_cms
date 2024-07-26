@@ -1,5 +1,9 @@
 ---
 contents: |-
+  
+
+  <div className="main-content">
+
   <style>
 
   .main-bg {
@@ -348,4 +352,6 @@ contents: |-
   \    </section>
 
   \    </div>
+
+  </div>
 ---
