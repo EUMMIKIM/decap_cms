@@ -444,7 +444,7 @@ contents: >-
   \    <div>
 
 
-  <img src="cmsPublic/assets/images/vincent-van-gogh-starry-night_1920x1080.jpg" />
+  <img src="https://github.com/EUMMIKIM/decap_test/blob/main/cmsPublic/assets/images/vincent-van-gogh-starry-night_1920x1080.jpg?raw=true" />
 
 
   \    <img src="/assets/images/main_img_2.png" isFullSize alt="LG전자" />
