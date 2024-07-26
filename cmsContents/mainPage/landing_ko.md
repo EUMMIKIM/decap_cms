@@ -432,7 +432,7 @@ contents: >-
   <a href="/api/thinq-connect#tag/Facility/operation/getFacilityCtrlHistoryAircareUsingGET">
 
 
-  \    <img src="/assets/images/main_img_1.png" isFullSize alt="LG전자" />
+  \    <img src="https://github.com/EUMMIKIM/decap_test/blob/main/cmsPublic/assets/images/main_img_1.png?raw=true" isFullSize alt="LG전자" />
 
 
   </a>
@@ -442,14 +442,6 @@ contents: >-
 
 
   \    <div>
-
-
-  <img src="https://github.com/EUMMIKIM/decap_test/blob/main/cmsPublic/assets/images/vincent-van-gogh-starry-night_1920x1080.jpg?raw=true" />
-
-
-
-
-  <img src="https://github.com/EUMMIKIM/decap_test/blob/main/cmsPublic/assets/images/wallpaperflare.com_wallpaper-2-.jpg?raw=true">
 
 
   \    <img src="/assets/images/main_img_2.png" isFullSize alt="LG전자" />
