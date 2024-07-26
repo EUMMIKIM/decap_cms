@@ -1,6 +1,6 @@
 ---
 contents:
-  code: >+
+  code: >
     swagger: '2.0'
 
     info:
@@ -741,4 +741,5 @@ contents:
     externalDocs:
       description: Find out more about Swagger
       url: 'http://swagger.io'
+  lang: yaml
 ---
