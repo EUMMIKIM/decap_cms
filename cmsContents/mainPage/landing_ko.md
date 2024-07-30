@@ -1,5 +1,7 @@
 ---
 contents: |-
+  <div className="main-content">
+
   <div className="main-bg">
 
   \    <section className="main-section main-type-1">
@@ -48,8 +50,6 @@ contents: |-
 
   \    </section>
 
-
-
   \    <section className="main-section main-type-2">
 
   \    <div className="container">
@@ -63,8 +63,6 @@ contents: |-
   \    </div>
 
   \    </section>
-
-
 
   \    <section className="main-section main-type-3">
 
@@ -83,4 +81,6 @@ contents: |-
   \    </section>
 
   \    </div>
+
+  </div>
 ---
