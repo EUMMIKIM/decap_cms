@@ -2,16 +2,6 @@
 contents: |-2
    <div className="main-wrap">
 
-  \    {/\* 메인 배너 \*/}
-
-  \    {/* 
-
-  \    텍스트 색상 black :  type-black  
-
-  \    텍스트 색상 white :  type-white  
-
-  \*/}
-
   \    <div className="main-visual type-black">
 
   \    <CoImage src="/assets/images/main_kv.png" isFullSize alt="LG전자" />
@@ -48,11 +38,11 @@ contents: |-2
 
 
 
-  \    {/\* 메인 콘텐츠 \*/}
+
 
   \    <div className="main-content">
 
-  \    {/\* content - st \*/}
+
 
 
 
@@ -408,7 +398,7 @@ contents: |-2
 
   \    </div>
 
-  \    {/\* content - ed \*/}
+
 
   \    </div>
 
