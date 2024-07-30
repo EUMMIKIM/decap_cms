@@ -42,7 +42,7 @@ contents: >-
   \    <div>
 
 
-  \    <CoImage src="https://github.com/EUMMIKIM/decap_cms/blob/main/cmsPublic/assets/images/main_img_1.png?raw=true" isFullSize alt="LG전자" />
+  \    <img src="https://github.com/EUMMIKIM/decap_cms/blob/main/cmsPublic/assets/images/main_img_1.png?raw=true" isFullSize alt="LG전자" />
 
 
   \    </div>
@@ -51,7 +51,7 @@ contents: >-
   \    <div>
 
 
-  \    <CoImage src="/assets/images/main_img_2.png" isFullSize alt="LG전자" />
+  \    <img src="/assets/images/main_img_2.png" isFullSize alt="LG전자" />
 
 
   \    </div>
@@ -60,7 +60,7 @@ contents: >-
   \    <div>
 
 
-  \    <CoImage src="/assets/images/main_img_3.png" isFullSize alt="LG전자" />
+  \    <img src="/assets/images/main_img_3.png" isFullSize alt="LG전자" />
 
 
   \    </div>
