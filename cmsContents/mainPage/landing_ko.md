@@ -1,48 +1,6 @@
 ---
-contents: |-2
-   <div className="main-wrap">
-
-  \    <div className="main-visual type-black">
-
-  \    <CoImage src="/assets/images/main_kv.png" isFullSize alt="LG전자" />
-
-  \    <div className="main-visual__items">
-
-  \    <p className="title">
-
-  \    Start building with <br />
-
-  \    LG Open API Developer
-
-  \    </p>
-
-  \    <p className="text">
-
-  \    When someone think of you, <br />
-
-  \    They will remember you as an agreeable scent.
-
-  \    </p>
-
-  \    <div className="btns">
-
-  \    <CoButton className="btn-round-black btn-l">Become a Partner</CoButton>
-
-  \    <CoButton className="btn-round-black btn-l">Become a Partner</CoButton>
-
-  \    </div>
-
-  \    </div>
-
-  \    </div>
-
-
-
-
-
-  \    <div className="main-content">
-
-  \    <div className="main-bg">
+contents: |-
+  <div className="main-bg">
 
   \    <section className="main-section main-type-1">
 
@@ -123,12 +81,6 @@ contents: |-2
   \    </div>
 
   \    </section>
-
-  \    </div>
-
-
-
-  \    </div>
 
   \    </div>
 ---
