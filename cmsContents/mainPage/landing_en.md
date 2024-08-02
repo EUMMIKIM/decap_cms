@@ -108,7 +108,7 @@ contents: >-
   \    <p className="text">
 
 
-  \    LG 개발자가 되기 전, <br /> 궁금한 사항에 대해 담당자에게 문의해 보세요.(영문)
+  \    LG 개발자가 되기 전, <br /> Please contact the person in charge of the matter for help.
 
 
   \    </p>
