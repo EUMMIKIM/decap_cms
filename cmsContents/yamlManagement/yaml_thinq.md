@@ -5,9 +5,9 @@ contents:
     openapi: 3.0.3
 
     info:
-      title: Business connect
+      title: BUSINESS CONNECT
       description: |-
-        Business connect 연동을 위한 RESTful APIs
+        BUSINESS CONNECT 연동을 위한 RESTful APIs
 
         HTTP Status Code   |   X-Response-Code Header   |   Description
         -------------------|----------------------------|-------------------
@@ -24,7 +24,7 @@ contents:
         &nbsp; | 2009 | Invalid datetime
         500 | 3001 | Internal Server Error
       contact:
-        email: po-b2b-pd-pbx@lge.com
+        email: bizdev@lge.com
       version: 3.1.0-SNAPSHOT
     servers:
       - url: https://ap-dv.api.lge.com/becon/v1.0
