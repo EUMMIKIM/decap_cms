@@ -5,9 +5,9 @@ contents:
     openapi: 3.0.3
 
     info:
-      title: BECON connect
+      title: Business connect
       description: |-
-        BECON connect 연동을 위한 RESTful APIs
+        Business connect 연동을 위한 RESTful APIs
 
         HTTP Status Code   |   X-Response-Code Header   |   Description
         -------------------|----------------------------|-------------------
