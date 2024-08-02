@@ -15,10 +15,10 @@ contents: >-
   \    <p className="title">
 
 
-  \    서비스 경쟁력을 높이는 놀라운 가능성<br />
+  \    Why build with <br />
 
 
-  \    LG Open API Developer
+  \    LG Open API Developers?
 
 
   \    </p>
