@@ -4138,7 +4138,7 @@ contents:
           schema:
             type: string
           description: |
-            `API Token` obtained from **[Create a new API Token](/#tag/API-Token/operation/createAPIToken)** API.
+            `API Token` obtained from **[Create a new API Token](/api/business_connect/#tag/API-Token/operation/createAPIToken)** API.
           example: eyJleHAiOjE3MDQzNDE3MDIsImlhdCI6MTcwNDI1NTMwMiwiaXNzIjoiTEcgQnVzaW5lc3MgQ29ubmVjdCIsInJvbGVzIjpbImdldEJlY29uVXNlcnMiLCJnZXREclVzZXJzIiwicG9zdFRva2VuIl0sInN1YiI6IjRkMmM2MWUxLTM0YzQtZTk2Yy05NDU2LTE1YmQ5ODNjNTAxOSJ9
         X-Message-Id:
           name: X-Message-Id
