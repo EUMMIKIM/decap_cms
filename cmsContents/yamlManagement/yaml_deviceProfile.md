@@ -69,10 +69,10 @@ contents:
                     </div>
                   </div>
                 </section>
-                <section class="divide">
+                <section class="divide" markdown="block">
                   <h3 class="h3 lg">디바이스 제어</h3>
                   <p class="t3">사용자의 디바이스를 제어하는 방법을 설명합니다.</p>
-                  <div class="divide-txt">
+                  <div class="divide-txt" markdown="block">
                     <h4 class="h4 lg">APIs to Be Used</h4>
                     <ul class="bu-dot lg">
                       <li>
