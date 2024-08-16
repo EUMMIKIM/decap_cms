@@ -26,8 +26,7 @@ contents:
 
           디바이스 프로파일 메시지의 스키마는 공통적으로 아래의 항목들을 설명합니다.
           
-          <table>
-          <div className="box box--r-1.25" markdown="block">
+          <div className="box box--r-1.25" markdown="1">
               <div className="in-cont">
                 <section className="divide mt0">
                   <h3 className="h3 lg">디바이스 상태 조회</h3>
@@ -248,7 +247,6 @@ contents:
                 </section>
               </div>
             </div>
-            </table>
 
 
             - **notification** : 해당 디바이스에서 지원하는 푸시 메시지의 종류
