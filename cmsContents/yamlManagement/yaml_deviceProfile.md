@@ -25,6 +25,9 @@ contents:
               이 스키마를 참고하여 메시지를 구성하고, 예제는 각 API의 정의를 참조하세요.
 
           디바이스 프로파일 메시지의 스키마는 공통적으로 아래의 항목들을 설명합니다.
+          
+          <img src="/assets/images/main_img_business_connect.png">
+
 
             - **notification** : 해당 디바이스에서 지원하는 푸시 메시지의 종류
             - **property** : 속성별 Read/Write 지원 여부와 값의 특성
