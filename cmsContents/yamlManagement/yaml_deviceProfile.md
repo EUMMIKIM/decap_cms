@@ -72,7 +72,6 @@ contents:
                 <section class="divide">
                   <h3 class="h3 lg">디바이스 제어</h3>
                   <p class="t3">사용자의 디바이스를 제어하는 방법을 설명합니다.</p>
-
                   <div class="divide-txt">
                     <h4 class="h4 lg">APIs to Be Used</h4>
                     <ul class="bu-dot lg">
@@ -177,7 +176,6 @@ contents:
                 <section class="divide">
                   <h3 class="h3 lg">디바이스의 푸쉬 알림 구독 </h3>
                   <p class="t3">디바이스의 푸쉬 알림을 구독하는 방법을 설명합니다.</p>
-
                   <div class="divide-txt">
                     <h4 class="h4 lg">APIs to Be Used</h4>
                     <ul class="bu-dot lg">
