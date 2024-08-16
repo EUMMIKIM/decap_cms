@@ -27,31 +27,31 @@ contents:
           디바이스 프로파일 메시지의 스키마는 공통적으로 아래의 항목들을 설명합니다.
           
           <div class="box box--r-1.25" markdown="1">
-              <div className="in-cont">
-                <section className="divide mt0">
-                  <h3 className="h3 lg">디바이스 상태 조회</h3>
+              <div class="in-cont">
+                <section class="divide mt0">
+                  <h3 class="h3 lg">디바이스 상태 조회</h3>
 
-                  <p className="t3">사용자의 디바이스 상태를 조회하는 방법을 설명합니다.</p>
+                  <p class="t3">사용자의 디바이스 상태를 조회하는 방법을 설명합니다.</p>
 
-                  <div className="divide-txt">
-                    <h4 className="h4 lg">APIs to Be Used</h4>
-                    <ul className="bu-dot lg">
+                  <div class="divide-txt">
+                    <h4 class="h4 lg">APIs to Be Used</h4>
+                    <ul class="bu-dot lg">
                       <li>
-                        <Link href="" className="c-heritage link">
+                        <Link href="" class="c-heritage link">
                           GET /devices
                         </Link>
                       </li>
                       <li>
-                        <Link href="" className="c-heritage link">
+                        <Link href="" class="c-heritage link">
                           GET /devices/&#123;device-id&#125;
                         </Link>
                       </li>
                     </ul>
                   </div>
 
-                  <div className="divide-txt">
-                    <h4 className="h4 lg">Sequence</h4>
-                    <ol className="bu-counter lg">
+                  <div class="divide-txt">
+                    <h4 class="h4 lg">Sequence</h4>
+                    <ol class="bu-counter lg">
                       <li>
                         여러분의 서비스는 디바이스 목록 조회 API (<code>GET/device</code>)를 이용하여, LG ThinQ 플랫폼에
                         등록된 사용자의 디바이스 목록을 가져와야 합니다. <br />이 과정은 처음 한 번만 수행하면 되고, 목록을
@@ -62,8 +62,8 @@ contents:
                         디바이스 상태 조회 API (<code>GET/devices/&#123;device - id&#125;</code>)를 호출합니다.
                       </li>
                     </ol>
-                    <div className="img-w">
-                      <CoImage
+                    <div class="img-w">
+                      <img
                         src="/assets/images/sequence-diagram_1_monitor.png"
                         width={538}
                         height={395}
@@ -73,34 +73,34 @@ contents:
                   </div>
                 </section>
 
-                <section className="divide">
-                  <h3 className="h3 lg">디바이스 제어</h3>
-                  <p className="t3">사용자의 디바이스를 제어하는 방법을 설명합니다.</p>
+                <section class="divide">
+                  <h3 class="h3 lg">디바이스 제어</h3>
+                  <p class="t3">사용자의 디바이스를 제어하는 방법을 설명합니다.</p>
 
-                  <div className="divide-txt">
-                    <h4 className="h4 lg">APIs to Be Used</h4>
-                    <ul className="bu-dot lg">
+                  <div class="divide-txt">
+                    <h4 class="h4 lg">APIs to Be Used</h4>
+                    <ul class="bu-dot lg">
                       <li>
-                        <Link href="" className="c-heritage link">
+                        <Link href="" class="c-heritage link">
                           GET /devices
                         </Link>
                       </li>
                       <li>
-                        <Link href="" className="c-heritage link">
+                        <Link href="" class="c-heritage link">
                           GET /devices/profile/&#123;device-id&#125;
                         </Link>
                       </li>
                       <li>
-                        <Link href="" className="c-heritage link">
+                        <Link href="" class="c-heritage link">
                           POST /devices/&#123;device-id&#125;
                         </Link>
                       </li>
                     </ul>
                   </div>
 
-                  <div className="divide-txt">
-                    <h4 className="h4 lg">Sequence</h4>
-                    <ol className="bu-counter lg">
+                  <div class="divide-txt">
+                    <h4 class="h4 lg">Sequence</h4>
+                    <ol class="bu-counter lg">
                       <li>
                         여러분의 서비스는 디바이스 목록 조회 API (<code>GET/devices</code>)를 이용하여, LG ThinQ 플랫폼에
                         등록된 사용자의 디바이스 목록을 가져와야 합니다.
@@ -121,7 +121,7 @@ contents:
                       </li>
                       <li>API 응답으로 디바이스 제어 결과를 반환 받습니다. </li>
                     </ol>
-                    <div className="img-w">
+                    <div class="img-w">
                       <img
                         src="/assets/images/sequence-diagram_2_control.png"
                         width={544}
@@ -132,34 +132,34 @@ contents:
                   </div>
                 </section>
 
-                <section className="divide">
-                  <h3 className="h3 lg">디바이스의 이벤트 구독 </h3>
+                <section class="divide">
+                  <h3 class="h3 lg">디바이스의 이벤트 구독 </h3>
                   <div class="TED_alertBox">Event API를 사용하기 위해서는&nbsp;LG전자 담당자와 사전 협의가 필요합니다.</div>
-                  <p className="t3">
+                  <p class="t3">
                     디바이스로부터 이벤트 메시지를 구독하는 방법을 설명합니다. 이벤트 메시지는 디바이스의 상태가 변경되는
                     경우 발생하며, 디바이스의 변경된 상태 정보를 담고 있습니다. <br /> 이벤트 메시지에 대한 상세 설명은
                     Event API &gt; 이벤트 메시지 정의를 참고하십시오.
                   </p>
 
-                  <div className="divide-txt">
-                    <h4 className="h4 lg">APIs to Be Used</h4>
-                    <ul className="bu-dot lg">
+                  <div class="divide-txt">
+                    <h4 class="h4 lg">APIs to Be Used</h4>
+                    <ul class="bu-dot lg">
                       <li>
-                        <Link href="" className="c-heritage link">
+                        <Link href="" class="c-heritage link">
                           GET /devices
                         </Link>
                       </li>
                       <li>
-                        <Link href="" className="c-heritage link">
+                        <Link href="" class="c-heritage link">
                           POST /event/&#123;device-id&#125;
                         </Link>
                       </li>
                     </ul>
                   </div>
 
-                  <div className="divide-txt">
-                    <h4 className="h4 lg">Sequence</h4>
-                    <ol className="bu-counter lg">
+                  <div class="divide-txt">
+                    <h4 class="h4 lg">Sequence</h4>
+                    <ol class="bu-counter lg">
                       <li>
                         여러분의 서비스는 디바이스 목록 조회 API (<code>GET/device</code>)를 이용하여, LG ThinQ 플랫폼에
                         등록된 사용자의 디바이스 목록을 가져와야 합니다. <br /> 이 과정은 처음 한 번만 수행하면 되고, 목록을
@@ -172,8 +172,8 @@ contents:
                       <li>API 응답으로 이벤트 구독 성공/실패에 대한 결과를 반환 받습니다.</li>
                       <li>디바이스의 상태가 변경되었을 때, 이벤트 메시지를 전달 받습니다.</li>
                     </ol>
-                    <div className="img-w">
-                      <CoImage
+                    <div class="img-w">
+                      <img
                         src="/assets/images/sequence-diagram_3.png"
                         width={753}
                         height={597}
@@ -183,29 +183,29 @@ contents:
                   </div>
                 </section>
 
-                <section className="divide">
-                  <h3 className="h3 lg">디바이스의 푸쉬 알림 구독 </h3>
-                  <p className="t3">디바이스의 푸쉬 알림을 구독하는 방법을 설명합니다.</p>
+                <section class="divide">
+                  <h3 class="h3 lg">디바이스의 푸쉬 알림 구독 </h3>
+                  <p class="t3">디바이스의 푸쉬 알림을 구독하는 방법을 설명합니다.</p>
 
-                  <div className="divide-txt">
-                    <h4 className="h4 lg">APIs to Be Used</h4>
-                    <ul className="bu-dot lg">
+                  <div class="divide-txt">
+                    <h4 class="h4 lg">APIs to Be Used</h4>
+                    <ul class="bu-dot lg">
                       <li>
-                        <Link href="" className="c-heritage link">
+                        <Link href="" class="c-heritage link">
                           GET /devices
                         </Link>
                       </li>
                       <li>
-                        <Link href="" className="c-heritage link">
+                        <Link href="" class="c-heritage link">
                           POST /push/&#123;device-id&#125;
                         </Link>
                       </li>
                     </ul>
                   </div>
 
-                  <div className="divide-txt">
-                    <h4 className="h4 lg">Sequence</h4>
-                    <ol className="bu-counter lg">
+                  <div class="divide-txt">
+                    <h4 class="h4 lg">Sequence</h4>
+                    <ol class="bu-counter lg">
                       <li>
                         여러분의 서비스는 디바이스 목록 조회 API (<code>GET/device</code>)를 이용하여, LG ThinQ 플랫폼에
                         등록된 사용자의 디바이스 목록을 가져와야 합니다. 이 과정은 처음 한 번만 수행하면 되고, 목록을 한 번
@@ -225,18 +225,18 @@ contents:
                     <div class="TED_noteBox">
                       푸쉬 알림에는 디바이스의 동작 완료 (예: 세탁기-세탁 완료) 혹은 부품 교체 (공기청정기-필터 교체) 등
                       사용자에게 전달해야 하는 메시지가 포함되어 있습니다. 이 메시지는{' '}
-                      <Link href="" className="c-heritage link">
+                      <Link href="" class="c-heritage link">
                         Common Data Type &gt; Push Type &gt; DEVICE_PUSH
                       </Link>
                       에 해당되며, 각 가전 유형 별로 사용되는 메시지 내용은{' '}
-                      <Link href="" className="c-heritage link">
+                      <Link href="" class="c-heritage link">
                         Device Profile &gt; Notification (Push Message)
                       </Link>
                       에 정의되어 있습니다.
                     </div>
 
-                    <div className="img-w">
-                      <CoImage
+                    <div class="img-w">
+                      <img
                         src="/assets/images/sequence-diagram_4.png"
                         width={753}
                         height={553}
