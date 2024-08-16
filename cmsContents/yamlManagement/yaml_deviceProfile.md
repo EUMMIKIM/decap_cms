@@ -30,9 +30,7 @@ contents:
               <div class="in-cont" markdown="block">
                 <section class="divide mt0" markdown="block">
                   <h3 class="h3 lg" markdown="block">디바이스 상태 조회</h3>
-
                   <p class="t3" markdown="block">사용자의 디바이스 상태를 조회하는 방법을 설명합니다.</p>
-
                   <div class="divide-txt" markdown="block">
                     <h4 class="h4 lg">APIs to Be Used</h4>
                     <ul class="bu-dot lg">
@@ -48,7 +46,6 @@ contents:
                       </li>
                     </ul>
                   </div>
-
                   <div class="divide-txt">
                     <h4 class="h4 lg">Sequence</h4>
                     <ol class="bu-counter lg">
@@ -72,7 +69,6 @@ contents:
                     </div>
                   </div>
                 </section>
-
                 <section class="divide">
                   <h3 class="h3 lg">디바이스 제어</h3>
                   <p class="t3">사용자의 디바이스를 제어하는 방법을 설명합니다.</p>
@@ -97,7 +93,6 @@ contents:
                       </li>
                     </ul>
                   </div>
-
                   <div class="divide-txt">
                     <h4 class="h4 lg">Sequence</h4>
                     <ol class="bu-counter lg">
@@ -131,7 +126,6 @@ contents:
                     </div>
                   </div>
                 </section>
-
                 <section class="divide">
                   <h3 class="h3 lg">디바이스의 이벤트 구독 </h3>
                   <div class="TED_alertBox">Event API를 사용하기 위해서는&nbsp;LG전자 담당자와 사전 협의가 필요합니다.</div>
@@ -140,7 +134,6 @@ contents:
                     경우 발생하며, 디바이스의 변경된 상태 정보를 담고 있습니다. <br /> 이벤트 메시지에 대한 상세 설명은
                     Event API &gt; 이벤트 메시지 정의를 참고하십시오.
                   </p>
-
                   <div class="divide-txt">
                     <h4 class="h4 lg">APIs to Be Used</h4>
                     <ul class="bu-dot lg">
@@ -156,7 +149,6 @@ contents:
                       </li>
                     </ul>
                   </div>
-
                   <div class="divide-txt">
                     <h4 class="h4 lg">Sequence</h4>
                     <ol class="bu-counter lg">
@@ -182,7 +174,6 @@ contents:
                     </div>
                   </div>
                 </section>
-
                 <section class="divide">
                   <h3 class="h3 lg">디바이스의 푸쉬 알림 구독 </h3>
                   <p class="t3">디바이스의 푸쉬 알림을 구독하는 방법을 설명합니다.</p>
@@ -202,7 +193,6 @@ contents:
                       </li>
                     </ul>
                   </div>
-
                   <div class="divide-txt">
                     <h4 class="h4 lg">Sequence</h4>
                     <ol class="bu-counter lg">
@@ -221,7 +211,6 @@ contents:
                         사용자에게 전달해야 하는 메시지가 있다면 적절히 처리합니다.
                       </li>
                     </ol>
-
                     <div class="TED_noteBox">
                       푸쉬 알림에는 디바이스의 동작 완료 (예: 세탁기-세탁 완료) 혹은 부품 교체 (공기청정기-필터 교체) 등
                       사용자에게 전달해야 하는 메시지가 포함되어 있습니다. 이 메시지는{' '}
@@ -234,7 +223,6 @@ contents:
                       </Link>
                       에 정의되어 있습니다.
                     </div>
-
                     <div class="img-w">
                       <img
                         src="/assets/images/sequence-diagram_4.png"
