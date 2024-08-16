@@ -8,6 +8,8 @@ contents:
       title: BUSINESS CONNECT
       description: |-
         BUSINESS CONNECT 연동을 위한 RESTful APIs
+        
+        Business Connect Overview 내용을 두세줄 정도로 간략히 씁니다.
 
         HTTP Status Code   |   X-Response-Code Header   |   Description
         -------------------|----------------------------|-------------------
