@@ -125,7 +125,7 @@ contents:
                     </div>
                   </div>
                 </section>
-                <section class="divide" markdown="block">
+                <section class="divide" markdown="3">
                   <h3 class="h3 lg">디바이스의 이벤트 구독 </h3>
                   <div class="TED_alertBox">Event API를 사용하기 위해서는&nbsp;LG전자 담당자와 사전 협의가 필요합니다.</div>
                   <p class="t3">
@@ -173,7 +173,7 @@ contents:
                     </div>
                   </div>
                 </section>
-                <section class="divide" markdown="block">
+                <section class="divide" markdown="4">
                   <h3 class="h3 lg">디바이스의 푸쉬 알림 구독 </h3>
                   <p class="t3">디바이스의 푸쉬 알림을 구독하는 방법을 설명합니다.</p>
                   <div class="divide-txt">
