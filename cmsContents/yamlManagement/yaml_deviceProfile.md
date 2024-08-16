@@ -29,7 +29,7 @@ contents:
           <div class="box box--r-1.25" markdown="block">
               <div class="in-cont" markdown="block">
                 <section class="divide mt0" markdown="1">
-                  <h3 class="h3 lg" markdown="block">디바이스 상태 조회555</h3>
+                  <h3 class="h3 lg" markdown="block">디바이스 상태 조회</h3>
                   <p class="t3" markdown="block">사용자의 디바이스 상태를 조회하는 방법을 설명합니다.</p>
                   <div class="divide-txt" markdown="block">
                     <h4 class="h4 lg">APIs to Be Used</h4>
