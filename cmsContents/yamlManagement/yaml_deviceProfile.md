@@ -26,7 +26,7 @@ contents:
 
           디바이스 프로파일 메시지의 스키마는 공통적으로 아래의 항목들을 설명합니다.
           
-          <div class="box box--r-1.25" markdown="1">
+          <div class="box box--r-1.25" markdown="block">
               <div class="in-cont">
                 <section class="divide mt0">
                   <h3 class="h3 lg">디바이스 상태 조회</h3>
