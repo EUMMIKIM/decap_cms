@@ -69,7 +69,7 @@ contents:
                     </div>
                   </div>
                 </section>
-                <section class="divide" markdown="block">
+                <section class="divide" markdown="2">
                   <h3 class="h3 lg" markdown="block">디바이스 제어</h3>
                   <p class="t3" markdown="block">사용자의 디바이스를 제어하는 방법을 설명합니다.</p>
                   <div class="divide-txt" markdown="block">
