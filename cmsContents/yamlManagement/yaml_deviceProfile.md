@@ -6,7 +6,7 @@ contents:
 
     info:
       version: null
-      title: 디바이스 프로파일asfasdfadfasfasdf
+      title: 디바이스 프로파일
     servers:
       - url: https://ap.api.lge.com
     tags:
