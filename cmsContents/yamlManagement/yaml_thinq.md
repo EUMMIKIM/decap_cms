@@ -9,8 +9,6 @@ contents:
       description: |-
         BUSINESS CONNECT 연동을 위한 RESTful APIs
         
-        Business Connect Overview 내용을 두세줄 정도로 간략히 씁니다.
-
         HTTP Status Code   |   X-Response-Code Header   |   Description
         -------------------|----------------------------|-------------------
         200 | 0000 | OK
@@ -36,10 +34,6 @@ contents:
       - url: https://ap.api.lge.com/becon/v1.0
         description: KIC / PRD
     tags:
-      - name: Overview
-        description: Business Connect의 개략적인 소개입니다.
-      - name: Call Sequence
-        description: Image 영역입니다.
       - name: Auth
         description: Token 발급
       - name: Facility
@@ -49,9 +43,6 @@ contents:
       - name: Site
         description: 현장 관련 API
     paths:
-      /overview:
-        tags:
-        - Overview
       /token:
         post:
           tags:
